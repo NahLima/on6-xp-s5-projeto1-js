@@ -105,7 +105,7 @@ const precoDesconto = function () {
  }else{
   return 
  }
-  
+ 
 }
 precoDesconto()
 //console.log(precoDesconto())
