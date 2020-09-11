@@ -4,19 +4,19 @@
 
 Precisamos criar uma solução de um carrinho de compras.
 
-- Listar no console uma tabela contendo os produtos em ordem crescente de preço (do menor ao maior). Utilize a lista contida no arquivo `database.js`
+- 1 Listar no console uma tabela contendo os produtos em ordem crescente de preço (do menor ao maior). Utilize a lista contida no arquivo `database.js`
 
-- Receber via terminal as entradas de `id` e `quantidade` dos produtos a serem adquiridos.
+- 2 Receber via terminal as entradas de `id` e `quantidade` dos produtos a serem adquiridos.
 
-- Perguntar se a cliente possue cupom de desconto. Caso a cliente digite 10, significa que terá 10% de desconto.
+- 3 Perguntar se a cliente possue cupom de desconto. Caso a cliente digite 10, significa que terá 10% de desconto.
 
-- Calcular o valor do subtotal (sem considerar o desconto)
+- 4 Calcular o valor do subtotal (sem considerar o desconto)
 
-- Calcular o valor de desconto
+- 5 Calcular o valor de desconto
 
-- Calcular o valor total (considerando o desconto do cupom)
+- 6 Calcular o valor total (considerando o desconto do cupom)
 
-- Apresentar no console:
+- 7 Apresentar no console:
   - a tabela contendo a lista de produtos adquiridos, incluindo a quantidade de cada produto
   - o valor subtotal em Reais
   - o valor do desconto em Reais

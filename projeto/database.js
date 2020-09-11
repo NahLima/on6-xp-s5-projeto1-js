@@ -11,7 +11,7 @@ module.exports = {
       id: 2,
       nome: 'Monitor',
       descricao: 'Monitor widescreen de várias polegadas',
-      categoria: 'informática',
+      categoria: 'informatica',
       preco: 999,
     },
     {
@@ -46,7 +46,7 @@ module.exports = {
       id: 7,
       nome: 'Mouse',
       descricao: 'Mouse gamer',
-      categoria: 'informática',
+      categoria: 'informatica',
       preco: 50,
     },
     {
